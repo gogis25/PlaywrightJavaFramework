@@ -1,0 +1,28 @@
+[
+  {
+    "titlePrefix": "Tech Conference",
+    "description": "Annual technology conference",
+    "category": "Sports",
+    "city": "Santa-Clara",
+    "venue": "Levis-Stadium",
+    "DateTime": "2026-11-27T23:00",
+    "price": "10",
+    "totalSeats": "215",
+    "fullName": "Harshul Reetwal",
+    "email": "harshul@gmail.com",
+    "phone": "9815098150"
+  },
+  {
+    "titlePrefix": "Sports Conference",
+    "description": "Annual Sports conference",
+    "category": "Sports",
+    "city": "Sunnyvale",
+    "venue": "Arena Stadium",
+    "DateTime": "2027-11-27T23:00",
+    "price": "105",
+    "totalSeats": "500",
+    "fullName": "Sundly Sharma",
+    "email": "sundly@gmail.com",
+    "phone": "9988776655"
+  }
+]
