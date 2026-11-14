@@ -29,7 +29,7 @@ public class TestBase {
             case "webkit" -> playwright.webkit();
             default -> playwright.chromium();
         };
-        browser = type.launch((new BrowserType.LaunchOptions().setHeadless(false)));
+        browser = type.launch((new BrowserType.LaunchOptions().setHeadless(true)));
 
         context = browser.newContext();
         context.tracing().start(new Tracing.StartOptions()
