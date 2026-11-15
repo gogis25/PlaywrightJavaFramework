@@ -18,7 +18,7 @@ on:
         description: 'Browser to run tests on'
         required: true
         default: 'chrome'
-        type: string
+        type: choice
         options:
           - chrome
           - firefox
